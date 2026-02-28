@@ -38,12 +38,12 @@
 ### 📈 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kushagra0333&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="kushagra0333 stats" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kushagra0333&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="kushagra0333 stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kushagra0333&theme=tokyonight&hide_border=true&background=0D1117" alt="kushagra0333 streak" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kushagra0333&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="top languages" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kushagra0333&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="top languages" />
 </div>
 
 #### 📊 Live Activity Panel
