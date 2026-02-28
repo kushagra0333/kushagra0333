@@ -8,11 +8,6 @@
   <br />
   
   <p>
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=kushagra0333&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true" alt="kushagra0333" />
-    </a>
-  </p>
-  <p>
     <img src="https://komarev.com/ghpvc/?username=kushagra0333&label=Profile%20views&color=0e75b6&style=flat" alt="kushagra0333 views" />
   </p>
 
