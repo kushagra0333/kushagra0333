@@ -62,8 +62,6 @@
   </picture>
 </div>
 
-*(Note: The snake animation will appear once the GitHub action in this repository runs successfully.)*
-
 ---
 
 ### 🤝 Connect With Me
