@@ -19,7 +19,7 @@
 
 * 🔭 I’m currently working on exciting **Fullstack and Flutter** projects.
 * 🌱 I’m currently learning more about **Scalable System Architecture and Cloud Technologies**.
-* 👯 I’m looking to collaborate on **Open Source MERN and Flutter apps**.
+* 👯 I’m looking to collaborate on **Open Source MERN Stack and Flutter apps**.
 * 💬 Ask me about **React, Node.js, MongoDB, Flutter, and Dart**.
 * 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/its-kushagra-pandey)**
 
